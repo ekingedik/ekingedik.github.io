@@ -14,7 +14,13 @@
     background-color: #333;
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
-    width: 60%; /* Full width */
+    width: inherit; /* Full width */
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 9999;
+    left: 50%;
+    transform: translateX(-50%);
+    min-height:32px
   }
   
   /* Links inside the navbar */
