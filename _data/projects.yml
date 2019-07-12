@@ -14,7 +14,7 @@
   quote: >
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-      | ![](images/MnM.jpg) | ![](images/crowded.png) | 
+      | ![](images/MnM.jpg=100x100) | ![](images/crowded.png=100x100) | 
 
       Helele
   
