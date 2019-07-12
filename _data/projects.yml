@@ -14,7 +14,7 @@
   quote: >
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-      | <img src="images/MnM.jpg" width="200" height="200" />  | <img src="images/crowded.png" width="200" height="200" /> | 
+      | <img src="images/MnM.jpg" /> | <img src="images/crowded.png" /> | 
 
       Helele
   
