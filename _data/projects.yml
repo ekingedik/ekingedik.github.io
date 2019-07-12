@@ -7,7 +7,7 @@
       <table style="width:100%">
         <tr>
           <td align="center"><img src="images/MnM.jpg" width="400" height="400" class="center" class="responsive" /></td>
-          <td align="center"><img src="images/crowded.png" width="400" height="400" class="center" /></td>
+          <td align="center"><img src="images/crowded.png" width="400" height="400" class="center" class="responsive" /></td>
         </tr>
       </table>
 
@@ -26,8 +26,8 @@
 
       <table style="width:100%">
         <tr>
-          <td align="center"><img src="images/l1.jpg" width="400" height="400" class="center" /></td>
-          <td align="center"><img src="images/l2.png" width="400" height="400" class="center" /></td>
+          <td align="center"><img src="images/l1.jpg" width="400" height="400" class="center" class="responsive" /></td>
+          <td align="center"><img src="images/l2.png" width="400" height="400" class="center" class="responsive" /></td>
         </tr>
       </table>
 
@@ -45,8 +45,8 @@
 
       <table style="width:100%">
         <tr>
-          <td align="center"><img src="images/hd1.jpg" width="400" height="400" class="center" /></td>
-          <td align="center"><img src="images/hd2.jpg" width="400" height="400" class="center" /></td>
+          <td align="center"><img src="images/hd1.jpg" width="400" height="400" class="center" class="responsive" /></td>
+          <td align="center"><img src="images/hd2.jpg" width="400" height="400" class="center" class="responsive" /></td>
         </tr>
       </table>
 
@@ -64,8 +64,8 @@
 
       <table style="width:100%">
         <tr>
-          <td align="center"><img src="images/dow1.jpg" width="400" height="400" class="center" /></td>
-          <td align="center"><img src="images/dow2.jpg" width="400" height="400" class="center" /></td>
+          <td align="center"><img src="images/dow1.jpg" width="400" height="400" class="center" class="responsive" /></td>
+          <td align="center"><img src="images/dow2.jpg" width="400" height="400" class="center" class="responsive" /></td>
         </tr>
       </table>
 
@@ -85,8 +85,8 @@
 
       <table style="width:100%">
         <tr>
-          <td align="center"><img src="images/ib1.png" width="400" height="400" class="center" /></td>
-          <td align="center"><img src="images/ib2.png" width="400" height="400" class="center" /></td>
+          <td align="center"><img src="images/ib1.png" width="400" height="400" class="center" class="responsive" /></td>
+          <td align="center"><img src="images/ib2.png" width="400" height="400" class="center" class="responsive" /></td>
         </tr>
       </table>
 
