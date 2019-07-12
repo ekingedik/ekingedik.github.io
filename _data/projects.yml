@@ -1,21 +1,79 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
+  name: MatchNMingle
+  link: Three days of speed dating and mingling
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
-- layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-      | <img src="images/MnM.jpg" /> | <img src="images/crowded.png" /> | 
 
-      Helele
-  
- # | ![](images/MnM.jpg) | ![](images/MnM.jpg) | ![](images/MnM.jpg) |
+      <table style="width:100%">
+        <tr>
+          <td align="center"><img src="images/MnM.jpg" width="400" height="400" class="center" /></td>
+          <td align="center"><img src="images/crowded.png" width="400" height="400" class="center" /></td>
+        </tr>
+      </table>
+
+      Together with social scientists from Vrije Universiteit Amsterdam, we organised three speed dating events 
+      on three seperate days, in a pub. Each day, 16 participants from each sex participated in 3 minutes of speed dates.
+      Speed dates are then followed by a free mingling session approximately lasting one hour. These events were captured 
+      with cameras and personal smart badges. I have analysed this large dataset of approximately 90 people using machine 
+      learning techniques and investigated different concepts such as detection of social actions, identification of conversing groups 
+      and estimation of participants personality traits. My current research focuses on combining these elements for the analysis of participants'
+       experience and romantic attraction.
+
+- layout: top-middle
+  name: Lucent Dance Theater Experiment
+  link: Predicting the audience experience in a dance performance
+  description: | # this will include new lines to allow paragraphs
+
+      <table style="width:100%">
+        <tr>
+          <td align="center"><img src="images/l1.jpg" width="400" height="400" class="center" /></td>
+          <td align="center"><img src="images/l2.png" width="400" height="400" class="center" /></td>
+        </tr>
+      </table>
+
+      We teamed up with scientists from Centrum Wiskunde & Informatica and designed an in-the-wild experiment for analysing the 
+      experience of the audience in a dance performance. Audience members wore smart badges that recorded their subtle movements 
+      throughout the event. Using the joint movement of audience members, we were able to predict audience members' experiences 
+      of the event, in terms of their enjoyment and immersion. We also found out that parts where participants moved in synchrony 
+      corresponded to salient moments of the performance. With this study, we provided an alternative way of evaluating the success 
+      of an event, rather than traditional methods like questionnaires or interviews.
+
+- layout: top-middle
+  name: Holland Dance Experiment
+  link: "A night out: Networking and dance performance"
+  description: | # this will include new lines to allow paragraphs
+
+      <table style="width:100%">
+        <tr>
+          <td align="center"><img src="images/hd1.jpg" width="400" height="400" class="center" /></td>
+          <td align="center"><img src="images/hd2.jpg" width="400" height="400" class="center" /></td>
+        </tr>
+      </table>
+
+      We teamed up with scientists from Centrum Wiskunde & Informatica and designed an in-the-wild experiment for analysing the 
+      experience of the audience in a dance performance. Audience members wore smart badges that recorded their subtle movements 
+      throughout the event. Using the joint movement of audience members, we were able to predict audience members' experiences 
+      of the event, in terms of their enjoyment and immersion. We also found out that parts where participants moved in synchrony 
+      corresponded to salient moments of the performance. With this study, we provided an alternative way of evaluating the success 
+      of an event, rather than traditional methods like questionnaires or interviews.
+
+- layout: top-middle
+  name: A Day of wonder
+  link: "Experience of a day of science and art"
+  description: | # this will include new lines to allow paragraphs
+
+      <table style="width:100%">
+        <tr>
+          <td align="center"><img src="images/dow1.jpg" width="400" height="400" class="center" /></td>
+          <td align="center"><img src="images/dow2.jpg" width="400" height="400" class="center" /></td>
+        </tr>
+      </table>
+
+      Each year, TU Delft organises a free-to-attend event which transforms its campus into a huge stage for technology, 
+      innovation and music. In 2015, this event was named as 'A day of Wonder'. During a Ted-X like session where multiple 
+      talks by researchers are followed by an innovative musical performance, we collected data using smart badges. 
+      The aim of this experience was to train machine learning models that can predict the experience of the audience, 
+      similar to the Lucent Dance Theater experiment. The main difference between these two experiments was the structure and 
+      characteristics of the events that are being recorded. A day of Wonder had a more chaotic flow where participants can sit, 
+      stand and move freely during the event. Our results have shown that the model we proposed was still successful in predicting 
+      experience, even in these harder conditions.
