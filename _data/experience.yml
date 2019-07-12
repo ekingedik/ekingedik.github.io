@@ -4,6 +4,20 @@
   link: Link to company (optional)
   job_title: Job title
   dates: Date Range (eg. November 2016 - present)
+  description: | # this will include new lines to allow paragraphs
+      Each year, TU Delft organises a free-to-attend event which transforms its campus into a huge stage for technology, 
+      innovation and music. In 2015, this event was named as 'A day of Wonder'. During a Ted-X like session where multiple 
+      talks by researchers are followed by an innovative musical performance, we collected data using smart badges. 
+      The aim of this experiment was to train machine learning models that can predict the experience of the audience, 
+      similar to the Lucent Dance Theater experiment. The main difference between these two experiments was the structure and 
+      characteristics of the events. A day of Wonder had a more chaotic flow where participants can sit, 
+      stand and move freely during the event. Our results have shown that the model we proposed was still successful in predicting 
+      experience, even in these harder conditions.
+- layout: left
+  company: Company name
+  link: Link to company (optional)
+  job_title: Job title
+  dates: Date Range (eg. November 2016 - present)
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs

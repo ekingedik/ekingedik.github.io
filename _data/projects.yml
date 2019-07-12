@@ -6,7 +6,7 @@
 
       <table style="width:100%">
         <tr>
-          <td align="center"><img src="images/MnM.jpg" width="400" height="400" class="center" /></td>
+          <td align="center"><img src="images/MnM.jpg" width="400" height="400" class="center" class="responsive" /></td>
           <td align="center"><img src="images/crowded.png" width="400" height="400" class="center" /></td>
         </tr>
       </table>
@@ -17,7 +17,7 @@
       with cameras and personal smart badges. I have analysed this large dataset of approximately 90 people using machine 
       learning techniques and investigated different concepts such as detection of social actions, identification of conversing groups 
       and estimation of participants personality traits. My current research focuses on combining these elements for the analysis of participants'
-       experience and romantic attraction.
+      experience and romantic attraction.
 
 - layout: top-middle
   name: Lucent Dance Theater Experiment
@@ -58,7 +58,7 @@
       of an event, rather than traditional methods like questionnaires or interviews.
 
 - layout: top-middle
-  name: A Day of wonder
+  name: A Day of Wonder
   link: "Experience of a day of science and art"
   description: | # this will include new lines to allow paragraphs
 
@@ -72,8 +72,26 @@
       Each year, TU Delft organises a free-to-attend event which transforms its campus into a huge stage for technology, 
       innovation and music. In 2015, this event was named as 'A day of Wonder'. During a Ted-X like session where multiple 
       talks by researchers are followed by an innovative musical performance, we collected data using smart badges. 
-      The aim of this experience was to train machine learning models that can predict the experience of the audience, 
+      The aim of this experiment was to train machine learning models that can predict the experience of the audience, 
       similar to the Lucent Dance Theater experiment. The main difference between these two experiments was the structure and 
-      characteristics of the events that are being recorded. A day of Wonder had a more chaotic flow where participants can sit, 
+      characteristics of the events. A day of Wonder had a more chaotic flow where participants can sit, 
       stand and move freely during the event. Our results have shown that the model we proposed was still successful in predicting 
       experience, even in these harder conditions.
+
+- layout: top-middle
+  name: Smart Meetings
+  link: "Measuring team cohesion with IBM Center for Advanced Studies Benelux"
+  description: | # this will include new lines to allow paragraphs
+
+      <table style="width:100%">
+        <tr>
+          <td align="center"><img src="images/ib1.png" width="400" height="400" class="center" /></td>
+          <td align="center"><img src="images/ib2.png" width="400" height="400" class="center" /></td>
+        </tr>
+      </table>
+
+      Cohesion is known to be a key component in the success of professional teams. Together with IBM Center for Advanced Studies Benelux, 
+      we investigated ways of automatically measuring cohesion through wearable sensing. With smart badges 
+      that records body acceleration, we have recorded real meetings of IBM teams. The privacy preserving nature 
+      of the badges made non-obstrusive solutions possible. We analysed the individual actions and interactions 
+      of team members through recorded data and developed computational models that can connect these information to cohesion.
