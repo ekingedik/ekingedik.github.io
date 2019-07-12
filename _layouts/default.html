@@ -8,16 +8,6 @@
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
       {%- include about.html -%}
-      <ul id="markdown-toc">
-          <li><a href="#scenario-1-basic-list" id="markdown-toc-scenario-1-basic-list">Scenario 1: Basic List</a></li>
-          <li><a href="#scenario-2-sorted-list" id="markdown-toc-scenario-2-sorted-list">Scenario 2: Sorted list</a></li>
-          <li><a href="#scenario-3-two-level-navigation-list" id="markdown-toc-scenario-3-two-level-navigation-list">Scenario 3: Two-level navigation list</a></li>
-          <li><a href="#scenario-4-three-level-navigation-list" id="markdown-toc-scenario-4-three-level-navigation-list">Scenario 4: Three-level navigation list</a></li>
-          <li><a href="#scenario-5-using-a-page-variable-to-select-the-yaml-list" id="markdown-toc-scenario-5-using-a-page-variable-to-select-the-yaml-list">Scenario 5: Using a page variable to select the YAML list</a></li>
-          <li><a href="#scenario-6-applying-the-active-class-for-the-current-page" id="markdown-toc-scenario-6-applying-the-active-class-for-the-current-page">Scenario 6: Applying the active class for the current page</a></li>
-          <li><a href="#scenario-7-including-items-conditionally" id="markdown-toc-scenario-7-including-items-conditionally">Scenario 7: Including items conditionally</a></li>
-          <li><a href="#scenario-8-retrieving-items-based-on-front-matter-properties" id="markdown-toc-scenario-8-retrieving-items-based-on-front-matter-properties">Scenario 8: Retrieving items based on front matter properties</a></li>
-        </ul>
       {%- if site.data.projects.size > 0 -%}
         {%- include projects.html -%}
       {%- endif -%}
