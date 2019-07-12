@@ -7,7 +7,4 @@
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project
-    Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](images/MnM.jpg "Title")  |  ![](images/MnM.jpg "Title")
-
+  | [![](images/MnM.jpg) | [![](images/MnM.jpg) | [![](images/MnM.jpg) |
