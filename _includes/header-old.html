@@ -1,16 +1,7 @@
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
-<script>
-  function myFunction() {
-    var x = document.getElementById("myTopnav");
-    if (x.className === "topnav") {
-      x.className += " responsive";
-    } else {
-      x.className = "topnav";
-    }
-  }
-</script>
+
 <div class="container header-contianer">
-<!--     <div class="navbar">
+    <div class="navbar">
         <a href="#about">About Me</a>
         <a href="#about">Projects</a>
         <a href="#contact">Experience</a>
@@ -18,21 +9,19 @@
         <a href="#contact">Skills</a>
         <a href="#contact">Selected Publications</a>
         <a href="#contact">Interests</a>
-      </div> -->
+      </div>
+  <div class="row">
+
       <div class="topnav" id="myTopnav">
           <a href="#home" class="active">Home</a>
-          <a href="#news">About Me</a>
-          <a href="#contact">Projects</a>
-          <a href="#about">Experience</a>
-          <a href="#about">Education</a>
-          <a href="#contact">Skills</a>
-          <a href="#about">Selected Publications</a>
-          <a href="#about">Interests</a>          
+          <a href="#news">News</a>
+          <a href="#contact">Contact</a>
+          <a href="#about">About</a>
           <a href="javascript:void(0);" class="icon" onclick="myFunction()">
             <i class="fa fa-bars"></i>
           </a>
         </div>
-  <div class="row">
+
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-8 header-left">
       <h1>{{ site.name | escape }}</h1>
       <h2>{{ site.title | escape }}</h2>
