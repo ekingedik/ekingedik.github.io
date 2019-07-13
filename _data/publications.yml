@@ -1,0 +1,15 @@
+content: | # this will include new lines to allow paragraphs
+  Journals
+  ------
+  - Gedik, E., Cabrera-Quiros, L., Martella, C., Englebienne, G. and Hung, H., 2018. Towards Analyzing and Predicting the Experience of Live Performances with Wearable Sensing. IEEE Transactions on Affective Computing.
+  - Gedik, E. and Hung, H., 2018. Detecting Conversing Groups Using Social Dynamics from Wearable Acceleration\: Group Size Awareness. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2(4), p.163.
+  - Gedik, E. and Hung, H., 2017. Personalised models for speech detection from body movements using transductive parameter transfer. Personal and Ubiquitous Computing, 21(4), pp.723-737.
+  
+  Book Chapters
+  ------
+  - Hung, H., Gedik, E. and Quiros, L.C., 2019. Complex conversational scene analysis using wearable sensors. In Multimodal Behavior Analysis in the Wild (pp. 225-245). Academic Press.
+
+  Book Chapters
+  ------
+  - Cabrera-Quiros, L., Gedik, E. and Hung, H., 2016, October. Estimating self-assessed personality from body movements and proximity in crowded mingling scenarios. In Proceedings of the 18th ACM International Conference on Multimodal Interaction (pp. 238-242). ACM.
+  - Martella, C., Gedik, E., Cabrera-Quiros, L., Englebienne, G. and Hung, H., 2015, October. How was it?\: exploiting smartphone sensing to measure implicit audience responses to live performances. In Proceedings of the 23rd ACM international conference on Multimedia (pp. 201-210). ACM.

@@ -7,7 +7,9 @@
   {%- include header.html -%}
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
-        {{ content }}
+      {%- if site.data.projects.size > 0 -%}
+        {%- include projects2.html -%}
+      {%- endif -%}
     </div>
   </main>
 

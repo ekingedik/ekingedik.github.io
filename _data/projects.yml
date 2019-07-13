@@ -6,8 +6,8 @@
 
       <table style="width:100%">
         <tr>
-          <td align="center"><img src="images/MnM.jpg" width="400" height="400" class="center" class="responsive" /></td>
-          <td align="center"><img src="images/crowded.png" width="400" height="400" class="center" class="responsive" /></td>
+          <td align="center"><img src="images/MnM.jpg" width="350" height="350" class="center" class="responsive" /></td>
+          <td align="center"><img src="images/crowded.png" width="350" height="350" class="center" class="responsive" /></td>
         </tr>
       </table>
 
@@ -15,9 +15,11 @@
       on three seperate days, in a pub. Each day, 16 participants from each sex participated in 3 minutes of speed dates.
       Speed dates are then followed by a free mingling session approximately lasting one hour. These events were captured 
       with cameras and personal smart badges. I have analysed this large dataset of approximately 90 people using machine 
-      learning techniques and investigated different concepts such as detection of social actions, identification of conversing groups 
-      and estimation of participants personality traits. My current research focuses on combining these elements for the analysis of participants'
-      experience and romantic attraction.
+      learning and investigated different concepts such as detection of social actions, identification of conversing groups 
+      and estimation of participants personality traits. Resulting publications from this study are [[1]](https://link.springer.com/content/pdf/10.1007%2Fs00779-017-1006-4.pdf), 
+      [[2]](https://dl.acm.org/citation.cfm?id=3287041) and [[3]](https://dl.acm.org/citation.cfm?id=2993170).
+      My current research on this data focuses on combining proxemics and dynamics, sensed through RSSI and acceleration, to enhance the 
+      detection of interacting partners.
 
 - layout: top-middle
   name: Lucent Dance Theater Experiment
@@ -26,17 +28,18 @@
 
       <table style="width:100%">
         <tr>
-          <td align="center"><img src="images/l1.jpg" width="400" height="400" class="center" class="responsive" /></td>
-          <td align="center"><img src="images/l2.png" width="400" height="400" class="center" class="responsive" /></td>
+          <td align="center"><img src="images/l1.jpg" width="350" height="350" class="center" class="responsive" /></td>
+          <td align="center"><img src="images/l2.png" width="350" height="350" class="center" class="responsive" /></td>
         </tr>
       </table>
 
       We teamed up with scientists from Centrum Wiskunde & Informatica and designed an in-the-wild experiment for analysing the 
-      experience of the audience in a dance performance. Audience members wore smart badges that recorded their subtle movements 
+      experience of an audience during a dance performance. Audience members wore smart badges that recorded their subtle movements 
       throughout the event. Using the joint movement of audience members, we were able to predict audience members' experiences 
       of the event, in terms of their enjoyment and immersion. We also found out that parts where participants moved in synchrony 
-      corresponded to salient moments of the performance. With this study, we provided an alternative way of evaluating the success 
-      of an event, rather than traditional methods like questionnaires or interviews.
+      corresponds to salient moments of the performance. With this study, we provided an alternative way of evaluating the success 
+      of an event, rather than traditional methods like questionnaires or interviews. For more information, please refer to [[4]](https://dl.acm.org/citation.cfm?id=2806276) 
+      and [[5]](https://ieeexplore.ieee.org/abstract/document/8493261).
 
 - layout: top-middle
   name: Holland Dance Experiment
@@ -45,17 +48,17 @@
 
       <table style="width:100%">
         <tr>
-          <td align="center"><img src="images/hd1.jpg" width="400" height="400" class="center" class="responsive" /></td>
-          <td align="center"><img src="images/hd2.jpg" width="400" height="400" class="center" class="responsive" /></td>
+          <td align="center"><img src="images/hd1.jpg" width="350" height="350" class="center" class="responsive" /></td>
+          <td align="center"><img src="images/hd2.jpg" width="350" height="350" class="center" class="responsive" /></td>
         </tr>
       </table>
 
-      We teamed up with scientists from Centrum Wiskunde & Informatica and designed an in-the-wild experiment for analysing the 
-      experience of the audience in a dance performance. Audience members wore smart badges that recorded their subtle movements 
-      throughout the event. Using the joint movement of audience members, we were able to predict audience members' experiences 
-      of the event, in terms of their enjoyment and immersion. We also found out that parts where participants moved in synchrony 
-      corresponded to salient moments of the performance. With this study, we provided an alternative way of evaluating the success 
-      of an event, rather than traditional methods like questionnaires or interviews.
+      In this study, we focused on the delayed social effects of attending a cultural event. Together with Holland Dance and a Dutch networking 
+      organisation, we designed and executed an experiment where young professionals came together for networking. The event had two networking 
+      sessions with a dance performance in the middle, which the all participants attended. Participants wore smart badges during the networking 
+      sessions and the performance, which recorded their bodily accelerations and physical proximities to others. By analysing the data we collected, 
+      we have found out that attending a cultural event generally had a positive affect on the mood which shows itself in the networking behaviour.
+      Results of this study were reported in [[4]](https://dl.acm.org/citation.cfm?id=2806276).
 
 - layout: top-middle
   name: A Day of Wonder
@@ -64,8 +67,8 @@
 
       <table style="width:100%">
         <tr>
-          <td align="center"><img src="images/dow1.jpg" width="400" height="400" class="center" class="responsive" /></td>
-          <td align="center"><img src="images/dow2.jpg" width="400" height="400" class="center" class="responsive" /></td>
+          <td align="center"><img src="images/dow1.jpg" width="350" height="350" class="center" class="responsive" /></td>
+          <td align="center"><img src="images/dow2.jpg" width="350" height="350" class="center" class="responsive" /></td>
         </tr>
       </table>
 
@@ -76,7 +79,7 @@
       similar to the Lucent Dance Theater experiment. The main difference between these two experiments was the structure and 
       characteristics of the events. A day of Wonder had a more chaotic flow where participants can sit, 
       stand and move freely during the event. Our results have shown that the model we proposed was still successful in predicting 
-      experience, even in these harder conditions.
+      experience, even in these harder conditions. Results of this study were reported in [[5]](https://ieeexplore.ieee.org/abstract/document/8493261).
 
 - layout: top-middle
   name: Smart Meetings
@@ -85,8 +88,8 @@
 
       <table style="width:100%">
         <tr>
-          <td align="center"><img src="images/ib1.png" width="400" height="400" class="center" class="responsive" /></td>
-          <td align="center"><img src="images/ib2.png" width="400" height="400" class="center" class="responsive" /></td>
+          <td align="center"><img src="images/ib1.png" width="350" height="350" class="center" class="responsive" /></td>
+          <td align="center"><img src="images/ib2.png" width="350" height="350" class="center" class="responsive" /></td>
         </tr>
       </table>
 
