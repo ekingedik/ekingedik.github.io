@@ -1,9 +1,35 @@
 # Education Template
 - layout: left
   name: Delft University of Technology
-  dates: 2014 - 2018
+  dates: 2014-2018
   qualification: Doctorate of Philosophy
   quote: >
-    Thesis:\
   description: | # this will include new lines to allow paragraphs
-  sasa
+    Thesis\: [Capturing human behaviour through wearables by computational analysis of social dynamics](https://repository.tudelft.nl/islandora/object/uuid%3A8f61321c-24c8-4d00-aa9c-738a125e6c98)
+
+    Supervised by Dr. Hayley Hung
+
+- layout: left
+  name: Middle East Technical University
+  dates: 2013-2014 (Unfinished)
+  qualification: Doctorate of Philosophy
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+
+- layout: left
+  name: Middle East Technical University
+  dates: 2010-2013
+  qualification: Master of Science (High Honors)
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    Thesis\: [New change detection method using double segmentation and its application on remotely sensed images](http://etd.lib.metu.edu.tr/upload/12616239/index.pdf)
+
+    Supervised by Dr. Fatos Tunay Yarman-Vural
+    
+- layout: left
+  name: Middle East Technical University
+  dates: 2005-2010
+  qualification: Bachelor of Science (Honors)
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+       
