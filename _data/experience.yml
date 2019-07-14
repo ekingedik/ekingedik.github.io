@@ -1,25 +1,54 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Delft University of Technology
+  link: https://www.tudelft.nl/en/
+  job_title: Senior Researcher
+  dates: April 2018 - present
   description: | # this will include new lines to allow paragraphs
-      Each year, TU Delft organises a free-to-attend event which transforms its campus into a huge stage for technology, 
-      innovation and music. In 2015, this event was named as 'A day of Wonder'. During a Ted-X like session where multiple 
-      talks by researchers are followed by an innovative musical performance, we collected data using smart badges. 
-      The aim of this experiment was to train machine learning models that can predict the experience of the audience, 
-      similar to the Lucent Dance Theater experiment. The main difference between these two experiments was the structure and 
-      characteristics of the events. A day of Wonder had a more chaotic flow where participants can sit, 
-      stand and move freely during the event. Our results have shown that the model we proposed was still successful in predicting 
-      experience, even in these harder conditions.
+      My current research focuses on the following research topics\:
+      - Fusion of proxemics and dynamics through representation learning for F-formation detection,
+      - Cohesion estimation,
+      - Interaction quality estimation,
+      - Mood estimation.
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+  company: Delft University of Technology
+  link: https://www.tudelft.nl/en/
+  job_title: Junior Researcher
+  dates: April 2014 - April 2018
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    During my Ph.D., I focused on the following research topics using wearable sensor data (acceleration and proximity)\:
+    - Transfer learning and domain adaption for creating personalised social action detection models,
+    - Effects of the group cardinality on the detection of F-formations (interacting groups),
+    - Automatic experience estimation,
+    - Personality estimation,
+    - Design and execution of real world data collection events.
+- layout: left
+  company: Middle East Technical University
+  link: https://www.metu.edu.tr/
+  job_title: Research Assistant
+  dates: June 2010 - April 2014
+  description: | # this will include new lines to allow paragraphs
+    I worked as a researcher in HASAT project done in collaboration with HAVELSAN and ASELSAN, leading defense and security corporations in Turkey.
+    The project aimed to create an application that is capable of detecting various types of targets from satellite and aerial images. 
+    I developed computational models for change, hot object, road, water and water related targets (rivers, dams, bridges) detection.
+- layout: left
+  company: HAVELSAN
+  link: https://www.havelsan.com.tr/en/
+  job_title: Intern
+  dates: June 2009 - August 2009
+  description: | # this will include new lines to allow paragraphs
+    <br>
+    I analyzed and utilized a simulation framework, Delta3D, to understand its capabilities and disadvantages for production.
+    I converted various parts of an existing simulation project to Delta3D using C++.
+- layout: left
+  company: Turkish Aerospace
+  link: https://www.tai.com.tr/en
+  job_title: Intern
+  dates: June 2008 - August 2008
+  description: | # this will include new lines to allow paragraphs
+    <br>
+    I worked with the R&D Department on the Airbus A400M project. I created solutions for processing, storing
+    and visualizing massive amounts of data.
+
+
 

@@ -1,0 +1,37 @@
+# Experience template
+- layout: left
+  company: Delft University of Technology
+  link: https://www.tudelft.nl/en/
+  job_title: Teaching Assistant Manager & Master's and Bachelor's Thesis Supervisor
+  dates: April 2016 - present
+  description: | # this will include new lines to allow paragraphs
+      **Teaching:** I acted as a teaching assistant manager for the following courses\:
+      - Algorithms and Data Structures
+      - Multimedia Analysis
+
+      My responsibilities were preparing assignments, supporting students throughout practical sessions,
+      teaching instruction classes and management of up to fifteen teaching assistants.
+      
+      **Supervision:**
+      I have supervised multiple M.Sc. students\:
+      - Xianhao Ni (In progress)
+      - Alessio Rosatelli (Graduated)
+      - Bahareh Abdi (IBM Center for Advanced Studies Intern)
+       and bachelor student groups. 
+
+      I also guided various bachelor student groups for their bachelor projects and bachelor seminar courses. 
+- layout: left
+  company: Middle East Technical University
+  link: https://www.metu.edu.tr/
+  job_title: Teaching Assistant
+  dates: June 2010 - April 2014
+  description: | # this will include new lines to allow paragraphs
+    I worked as a teaching assistant in the following undergraduate courses\: 
+    - Introduction to Computer Graphics
+    - C Programming
+    - Computer Engineering Design
+
+    I also supervised more than seven student groups in their graduation projects with
+    various topics such as mobile development, cloud based gaming, HLA based simulation and
+    web-based social gaming.
+

@@ -1,0 +1,12 @@
+
+    about_content: | # this will include new lines to allow paragraphs
+      <br>
+      I review for the following journals and conferences\: 
+      - IEEE Transactions of Affective Computing
+      - IEEE Multimedia
+      - ACM International Conference on Multimedia
+      - ACM International Conference on Multimodal Interaction (ICMI)
+      - International Conference on Affective Computing & Intelligent Interaction (ACII)
+
+      I am a member of Association for Computing Machinery (ACM) and Association for the Advancement of Affective Computing (AAAC).
+

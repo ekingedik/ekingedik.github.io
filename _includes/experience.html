@@ -3,4 +3,14 @@
   {% for experience in site.data.experience %}
     {% include {{ experience.layout | default: 'left' | append: ".html" }} item=experience %}
   {% endfor %}
+  <h3>Teaching & Supervision</h3>
+  {% for teaching in site.data.teaching %}
+    {% include {{ teaching.layout | default: 'left' | append: ".html" }} item=teaching %}
+  {% endfor %}  
+  <h3>Professional Activities</h3>
+  <div class="row clearfix">
+      <div class="{{ 'col-xs-12 ' }}">
+          {{ site.data.others.about_content | strip | markdownify }}
+        </div>
+    </div>
 </div>
