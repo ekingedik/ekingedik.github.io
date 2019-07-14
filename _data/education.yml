@@ -1,9 +1,9 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Delft University of Technology
+  dates: 2014 - 2018
+  qualification: Doctorate of Philosophy
   quote: >
-    Short institution or course description (optional)
+    Thesis:\
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+  sasa
