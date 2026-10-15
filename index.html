@@ -1,4 +1,100 @@
----
-layout: l_home
-permalink: /about/
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ekin Gedik</title>
+<meta name="description" content="Ekin Gedik, PhD — applied scientist working on generative vision, real-time multimodal systems and production ML. Based in The Hague.">
+<meta property="og:type" content="profile">
+<meta property="og:title" content="Ekin Gedik">
+<meta property="og:description" content="Applied scientist — generative vision, real-time multimodal systems, production ML.">
+<meta property="og:url" content="https://ekingedik.github.io/">
+<meta property="og:image" content="https://ekingedik.github.io/portrait.jpg">
+<meta name="twitter:card" content="summary">
+<meta name="google-site-verification" content="KLT2MLZg0fzSQe3oaajRIHiDjnx-Vj3SN6w1omu3NyI">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300..600;1,6..72,300..500&family=Libre+Franklin:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #fbfaf8; --ink: #191817; --soft: #56534d;
+    --label: #8b887f; --underline: #c5c1b8;
+    color-scheme: light dark;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #131312; --ink: #e9e7e3; --soft: #a29f98; --label: #79766f; --underline: #4d4a45; }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font-family: Newsreader, Georgia, "Times New Roman", serif;
+    font-size: 18px; line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; text-decoration: underline; text-decoration-color: var(--underline); text-underline-offset: 3px; }
+  a:hover { text-decoration-color: var(--ink); }
+  p { margin: 0; text-wrap: pretty; }
+  em { font-style: italic; }
+
+  main { max-width: 840px; margin: 0 auto; padding: clamp(48px, 8vw, 88px) clamp(24px, 6vw, 72px) 96px; }
+
+  header { display: flex; align-items: center; gap: 22px; flex-wrap: wrap; margin-bottom: clamp(36px, 6vw, 56px); }
+  header img { width: 76px; height: 76px; border-radius: 50%; object-fit: cover; flex: none; }
+  h1 { margin: 0; font-size: clamp(26px, 4vw, 31px); font-weight: 500; letter-spacing: -0.005em; }
+  .role { margin-top: 4px; color: var(--soft); font-size: clamp(16px, 2.4vw, 18px); }
+
+  .grid { display: grid; grid-template-columns: 132px minmax(0, 34em); gap: 0 32px; align-items: start; }
+  .label {
+    font-family: "Libre Franklin", system-ui, sans-serif;
+    font-size: 10.5px; letter-spacing: 0.14em; text-transform: uppercase;
+    color: var(--label); padding-top: 7px;
+  }
+  .grid > * + * { }
+  .section-gap { margin-top: clamp(28px, 5vw, 44px); }
+  .stack { display: flex; flex-direction: column; gap: 18px; }
+  .stack.tight { gap: 14px; }
+  .muted { color: var(--soft); }
+
+  @media (max-width: 640px) {
+    .grid { grid-template-columns: minmax(0, 1fr); gap: 0; }
+    .label.section-gap { margin-top: clamp(28px, 7vw, 40px); }
+    .label + * { margin-top: 8px !important; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <!-- Optional: same image as LinkedIn. Delete this <img> if no photo. -->
+    <img src="portrait.jpg" alt="Ekin Gedik">
+    <div>
+      <h1>Ekin Gedik</h1>
+      <p class="role">Applied scientist — generative vision, real-time multimodal systems, production ML</p>
+    </div>
+  </header>
+
+  <div class="grid">
+    <div class="label">About</div>
+    <div class="stack">
+      <p>I build machine learning systems that reach production. My background is a PhD in applied ML from TU Delft, where I worked on multimodal understanding of human social behaviour; since 2020 I've been the technical owner of two ML products, covering the full path from model training through GPU serving and deployment.</p>
+      <p>As Director of R&amp;D at RealFaceValue I lead work on generative computer vision for simulating aesthetic treatment outcomes — generative face models, semantic control over their latent space, and the parsing and landmark models around them. Through my consultancy, Socolutions, I'm CTO at Attune Media Labs, where I built a real-time empathic voice companion: self-hosted quantized LLM serving, retrieval-based long-term memory, and sub-second voice orchestration.</p>
+      <p>I'm based in The Hague.</p>
+    </div>
+
+    <div class="label section-gap">Interests</div>
+    <p class="section-gap">Generative modelling for faces · Real-time multimodal systems · Efficient LLM inference and serving · Affective computing in production settings</p>
+
+    <div class="label section-gap">Publications</div>
+    <div class="stack tight section-gap">
+      <p class="muted">400+ citations — <a href="https://scholar.google.com/citations?user=lPkyhbkAAAAJ">full list on Google Scholar</a></p>
+      <p><em>Towards Analyzing and Predicting the Experience of Live Performances with Wearable Sensing</em> — IEEE Transactions on Affective Computing, 2018</p>
+      <p><em>Detecting Conversing Groups Using Social Dynamics from Wearable Acceleration</em> — ACM IMWUT, 2018</p>
+      <p><em>ConfLab: A data collection concept, dataset, and benchmark for machine analysis of free-standing social interactions in the wild</em> — NeurIPS, 2022</p>
+    </div>
+
+    <div class="label section-gap">Elsewhere</div>
+    <p class="section-gap"><a href="https://www.linkedin.com/in/ekingedik">LinkedIn</a> · <a href="https://scholar.google.com/citations?user=lPkyhbkAAAAJ">Google Scholar</a> · <a href="mailto:ekn.gedik@gmail.com">ekn.gedik@gmail.com</a></p>
+  </div>
+</main>
+</body>
+</html>
